@@ -5,3 +5,9 @@ body
     margin: auto;
     background-color: bisque;
 }
+
+img
+{
+    width: 500px;
+    height: auto;
+}
