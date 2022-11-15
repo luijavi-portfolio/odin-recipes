@@ -16,3 +16,9 @@ h1
 {
     font-size: 48px;
 }
+
+.thumbnail
+{
+    width: 200px;
+    height: auto;
+}
