@@ -1,7 +1,7 @@
 body 
 {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
     background-color: bisque;
 }
@@ -10,4 +10,9 @@ img
 {
     width: 500px;
     height: auto;
+}
+
+h1
+{
+    font-size: 48px;
 }
